@@ -1,18 +1,37 @@
-## Getting Started
+# 🟡 Pac-Man Java Clone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+[![Java](https://img.shields.io/badge/Made%20with-Java-blue?style=flat-square&logo=java)](https://www.java.com/)
+[![Game](https://img.shields.io/badge/Game-PacMan-yellow?style=flat-square)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-## Folder Structure
+A modern, object-oriented clone of the classic Pac-Man arcade game, fully built with Java and Swing. Includes animated ghosts, dynamic food collection, score tracking, and life management.  
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# 🎮 Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+-Smooth movement and directional controls
+-Functional ghost AI with randomized movement
+-Food collection and score tracking
+-Life system with game over logic
+-Simple reset and replay functionality
+-Map built using a tile-based system
+-Customizable level layout with easily editable ASCII map
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🧰 Getting Started
+1. Clone the repository
+   
+   -git clone https://github.com/yourusername/pacman.git
+   
+   -cd pacman-java
+3. Add required image assets
+   
+      -Place all image files in the same directory as PacMan.java
+   
+5. Compile and run the game
+6. 
+   -javac PacMan.java
+   
+   -java PacMan
 
-## Dependency Management
+![Pac-Man Java Screenshot](./pacmanrunning.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
