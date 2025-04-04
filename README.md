@@ -6,7 +6,6 @@
 
 A modern, object-oriented clone of the classic Pac-Man arcade game, fully built with Java and Swing. Includes animated ghosts, dynamic food collection, score tracking, and life management.  
 
-
 # 🎮 Features
 
 -Smooth movement and directional controls
@@ -20,18 +19,18 @@ A modern, object-oriented clone of the classic Pac-Man arcade game, fully built 
 🧰 Getting Started
 1. Clone the repository
    
-   -git clone https://github.com/yourusername/pacman.git
+         git clone https://github.com/yourusername/pacman.git
    
-   -cd pacman-java
+         cd pacman-java
 3. Add required image assets
    
       -Place all image files in the same directory as PacMan.java
-   
+--------------------------------------------------------------------------------
 5. Compile and run the game
-6. 
-   -javac PacMan.java
    
-   -java PacMan
-
+         javac PacMan.java
+   
+         java PacMan
+--------------------------------------------------------------------------------
 ![Pac-Man Java Screenshot](./pacmanrunning.png)
 
